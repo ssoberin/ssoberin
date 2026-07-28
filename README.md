@@ -19,6 +19,6 @@ I don't just build models; I solve business problems. Every project starts with 
 
 ## 📫 Let's Connect
 - 📧 **Email:** [khamidullovas@gmail.com](mailto:khamidullovas@gmail.com)
-- 💼 **Resume:** [Download PDF](https://github.com/ssoberin/cv/blob/main/Samira_Khamidullova_CV.pdf)
+- 💼 **Resume:** [Go to CV](https://github.com/ssoberin/cv/blob/main/Samira_Khamidullova_CV.pdf)
 - 🌐 **Open to:** Full-time Remote opportunities worldwide
 
