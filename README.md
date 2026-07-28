@@ -20,7 +20,7 @@ I don't just build models; I solve business problems. Every project starts with 
 - **DevOps & Infrastructure:** PostgreSQL, Docker, Git, REST APIs, FastAPI, Vector Databases
 
 ## 📫 Let's Connect
-- 📧 **Email:** [khamidullovas@gmail.com](mailto:khamidullovas@gmail.com)
-- 💼 **Resume:** [See PDF](https://github.com/ssoberin/cv/blob/main/Samira_Khamidullova_CV.pdf)
-- 🌐 **Open to:** Full-time Remote opportunities worldwide
+📧 **Email:** [khamidullovas@gmail.com](mailto:khamidullovas@gmail.com)
+💼 **Resume:** [See PDF](https://github.com/ssoberin/cv/blob/main/Samira_Khamidullova_CV.pdf)
+🌐 **Open to:** Full-time Remote opportunities worldwide
 
