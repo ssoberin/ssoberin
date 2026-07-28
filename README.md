@@ -14,9 +14,12 @@ I don't just build models; I solve business problems. Every project starts with 
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, SQL
-- **ML/AI:** PyTorch, Transformers, scikit-learn, LangChain, LangGraph, Hugging Face
-- **Data & DevOps:** Pandas, NumPy, PostgreSQL, Docker, Git, FastAPI, matplotlib
+- **ML/AI:** Machine Learning, Deep Learning, NLP, LLMs, RAG, Multi-Agent Systems, Transformers
+- **Frameworks & Libraries:** PyTorch, Transformers, scikit-learn, LangChain, LangGraph, Hugging Face
+- **Data Science & Statistics:** Data Science & Statistics: A/B Testing, Statistical Analysis, Hypothesis Testing, Exploratory Data Analysis (EDA), Regression Models, BPMN 2.0
+- **Data Science & Statistics:** PostgreSQL, Docker, Git, REST APIs, FastAPI
 
+  
 ## 📫 Let's Connect
 - 📧 **Email:** [khamidullovas@gmail.com](mailto:khamidullovas@gmail.com)
 - 💼 **Resume:** [Go to CV](https://github.com/ssoberin/cv/blob/main/Samira_Khamidullova_CV.pdf)
