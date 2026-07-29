@@ -8,9 +8,9 @@ Applied Data Scientist and Machine Learning Engineer with a strong foundation in
 
 ## 🔥 Featured Projects
 - **[Tatenergo NTD AI Auditor](https://github.com/ssoberin/YamAISdelali)** – AI-powered regulatory compliance auditor. *Impact:* Reduced manual review time from 4–6 hours to 2–5 minutes per document.
-- **[Text-to-SQL System](ссылка_на_репозиторий)** – LLM + LangChain pipeline. *DS focus:* Rigorous evaluation of query accuracy and reduction of ad-hoc request variance.
+- **[Text-to-SQL System](https://github.com/ssoberin/NL2SQL-LSTM-Encoder-Decoder-)** – LLM + LangChain pipeline. *DS focus:* Rigorous evaluation of query accuracy and reduction of ad-hoc request variance.
 - **[Multi-Agent Risk Assessment](https://github.com/ssoberin/risk_suppliers)** – LangGraph + RAG. *DS focus:* Designed proprietary statistical scoring methodology for supply chain risks.
-- **[Route Optimization Model](ссылка_на_репозиторий)** – *DS focus:* Identified bottlenecks through historical data analysis, validated 30% time reduction against statistical baselines.
+- **[Route Optimization Model](https://github.com/ssoberin/Data-Divas-Agent)** – *DS focus:* Identified bottlenecks through historical data analysis, validated 30% time reduction against statistical baselines.
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, SQL
