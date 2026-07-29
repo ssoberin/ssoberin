@@ -1,10 +1,10 @@
 # Hi, I'm Samira 👋
 
-**Applied Machine Learning Engineer & Data Scientist**  
-*I bridge the gap between rigorous statistical analysis and production-ready AI systems.*
+**Data Scientist & Machine Learning Engineer**  
 
 ## 🚀 My Approach
-I don't just build models; I solve business problems. Every project starts with data exploration and hypothesis generation, moves through robust ML engineering, and ends with statistical validation (A/B testing) to ensure measurable impact.
+Applied Data Scientist and Machine Learning Engineer with a strong foundation in probability theory and statistics. I bridge the gap between rigorous statistical analysis and production-ready AI systems. Proven ability to drive the full data lifecycle: from hypothesis generation and EDA to building scalable ML pipelines (LLMs, RAG, classical ML) and validating business impact through A/B testing and metric tracking.
+
 
 ## 🔥 Featured Projects
 - **[Tatenergo NTD AI Auditor](https://github.com/ssoberin/YamAISdelali)** – AI-powered regulatory compliance auditor. *Impact:* Reduced manual review time from 4–6 hours to 2–5 minutes per document.
