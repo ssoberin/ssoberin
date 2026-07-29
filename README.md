@@ -1,6 +1,7 @@
 # Hi, I'm Samira 👋
 
 **Data Scientist & Machine Learning Engineer**  
+
 I bridge the gap between rigorous statistical analysis and production-ready AI systems. Proven ability to drive the full data lifecycle: from hypothesis generation and EDA to building scalable ML pipelines (LLMs, RAG, classical ML) and validating business impact through A/B testing and metric tracking.
 
 
