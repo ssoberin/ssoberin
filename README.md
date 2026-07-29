@@ -20,7 +20,8 @@ I am an applied specialist with a strong foundation in probability theory and st
 - **DevOps & Infrastructure:** PostgreSQL, Docker, Git, REST APIs, FastAPI, Vector Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,postgresql,docker,git,sklearn,pandas,numpy,jupyter,fastapi,streamlit,vscode,githubv/icons?
+  <img src="https://skillicons.dev/icons?i=python,pytorch,postgresql,docker,git,sklearn,pandas,numpy,jupyter,fastapi,streamlit,vscode,github" alt="Tech Stack Icons" />
+</p>
 
 ## 📫 Let's Connect
 - 📧 **Email:** [khamidullovas@gmail.com](mailto:khamidullovas@gmail.com)
