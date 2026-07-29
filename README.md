@@ -3,7 +3,7 @@
 **Data Scientist & Machine Learning Engineer**  
 
 ## 🚀 My Approach 
-Applied Data Scientist and Machine Learning Engineer with a strong foundation in probability theory and statistics. I bridge the gap between rigorous statistical analysis and production-ready AI systems. Proven ability to drive the full data lifecycle: from hypothesis generation and EDA to building scalable ML pipelines (LLMs, RAG, classical ML) and validating business impact through A/B testing and metric tracking.
+I am an applied specialist with a strong foundation in probability theory and statistics. I bridge the gap between rigorous statistical analysis and production-ready AI systems. Proven ability to drive the full data lifecycle: from hypothesis generation and EDA to building scalable ML pipelines (LLMs, RAG, classical ML) and validating business impact through A/B testing and metric tracking.
 
 
 ## 🔥 Featured Projects
@@ -18,6 +18,10 @@ Applied Data Scientist and Machine Learning Engineer with a strong foundation in
 - **Frameworks & Libraries:** PyTorch, Hugging Face Transformers, scikit-learn, LangChain, LangGraph
 - **Data Science & Statistics:** A/B Testing, Statistical Analysis, Hypothesis Testing, Exploratory Data Analysis (EDA), Regression Models, BPMN 2.0
 - **DevOps & Infrastructure:** PostgreSQL, Docker, Git, REST APIs, FastAPI, Vector Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,langchain,postgresql,docker,git,fastapi" alt="Tech Stack Icons" />
+</p>
 
 ## 📫 Let's Connect
 - 📧 **Email:** [khamidullovas@gmail.com](mailto:khamidullovas@gmail.com)
